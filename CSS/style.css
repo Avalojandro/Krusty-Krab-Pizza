@@ -1,0 +1,30 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+
+body
+{
+  background-color: #FE2E2E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.espacio
+{
+  padding: 14px;
+}
+
+.slider
+{
+margin-right: 40px;
+margin-left:  40px;
+}
+
+.nav-link
+{
+  font-size: 25px;
+}
+
+.margen
+{
+margin-top: 130px;
+margin-left: 250px;
+margin-right:250px;
+}
